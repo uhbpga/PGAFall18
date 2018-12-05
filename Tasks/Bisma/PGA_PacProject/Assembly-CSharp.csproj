@@ -61,27 +61,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DynamicGenerationOfPath.cs" />
+    <Compile Include="Assets\Dynamic.cs" />
     <Compile Include="Assets\Scripts\AirplaneMovement.cs" />
     <Compile Include="Assets\Scripts\CharacterMovement.cs" />
     <Compile Include="Assets\Scripts\Clickable3DObject.cs" />
     <Compile Include="Assets\Scripts\CollisionDetection.cs" />
     <Compile Include="Assets\Scripts\DynamicGenerationOfObjects.cs" />
     <Compile Include="Assets\Scripts\DynamicGenerationOfObjects_2.cs" />
+    <Compile Include="Assets\Scripts\DynamicGenerationOfPath.cs" />
+    <Compile Include="Assets\Scripts\DynamicPathGeneration.cs" />
     <Compile Include="Assets\Scripts\FpsCalculator.cs" />
     <Compile Include="Assets\Scripts\MovementScript.cs" />
     <Compile Include="Assets\Scripts\RigidbodyMovement.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/UnityProjects/PGA/PGA_PacProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/PGA/DevClass/Repos/Tasks/Bisma/PGA_PacProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/UnityProjects/PGA/PGA_PacProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/PGA/DevClass/Repos/Tasks/Bisma/PGA_PacProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/UnityProjects/PGA/PGA_PacProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/PGA/DevClass/Repos/Tasks/Bisma/PGA_PacProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/UnityProjects/PGA/PGA_PacProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/PGA/DevClass/Repos/Tasks/Bisma/PGA_PacProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Programs/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -264,7 +266,7 @@
       <HintPath>D:/Programs/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>D:/UnityProjects/PGA/PGA_PacProject/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>D:/PGA/DevClass/Repos/Tasks/Bisma/PGA_PacProject/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>D:/Programs/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
