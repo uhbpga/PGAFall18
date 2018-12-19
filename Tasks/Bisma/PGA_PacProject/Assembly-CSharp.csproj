@@ -61,6 +61,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <Compile Include="Assets\Dynamic.cs" />
+>>>>>>> 426981912bedcc8569b3d9a55e031a7024fdd3d2
     <Compile Include="Assets\Scripts\AirplaneMovement.cs" />
     <Compile Include="Assets\Scripts\CharacterMovement.cs" />
     <Compile Include="Assets\Scripts\Clickable3DObject.cs" />
