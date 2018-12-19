@@ -159,7 +159,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 65.44212
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -183,13 +183,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 292311322}
-  m_LocalRotation: {x: 0.1564345, y: 0, z: 0, w: 0.98768836}
-  m_LocalPosition: {x: 0, y: 20, z: -18}
+  m_LocalRotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+  m_LocalPosition: {x: 0, y: 100, z: 110}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 18, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 90}
 --- !u!1 &298528188
 GameObject:
   m_ObjectHideFlags: 0
@@ -453,13 +453,10 @@ MonoBehaviour:
   segmentNumber: 7
   PrefabPaths:
   - pathObj: {fileID: 1303785187476452, guid: 10a3e5b9878580e47ae001da0b526dca, type: 2}
-  - pathObj: {fileID: 1642209119702122, guid: 3da54384cb5ea884d94f9861e54037f7, type: 2}
+  - pathObj: {fileID: 1105152833717232, guid: fa3caf7df4fd97e4e8aac4de400feb29, type: 2}
   - pathObj: {fileID: 1044400491143202, guid: d3563c4a196c2ad4a9da41fb82baf10c, type: 2}
-  - pathObj: {fileID: 1888105626484116, guid: 9a19e794ae40ced4e83f409c58533a09, type: 2}
+  - pathObj: {fileID: 1800279900569608, guid: 0b5d6ea48d119714d8caf40c8d9db77a, type: 2}
   - pathObj: {fileID: 1255155799582526, guid: 5b5c4ee28d033f843b8f0e8d1534751b, type: 2}
-  - pathObj: {fileID: 1574078331568212, guid: f42104fd1d6fdcf49aa575b1447ee94f, type: 2}
-  - pathObj: {fileID: 1350946921551422, guid: 31b06fe938d144444b04e32177ff2475, type: 2}
-  - pathObj: {fileID: 1252918910842412, guid: e8dbea6d464765c4082654660d58ac9f, type: 2}
 --- !u!1 &829020353
 GameObject:
   m_ObjectHideFlags: 0
