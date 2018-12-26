@@ -1,8 +1,1 @@
-sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Hw_lec14_pathCanvas.unity
-=======
-- path: Assets/Scenes/Hw_lec9_pathGeneration.unity
->>>>>>> 426981912bedcc8569b3d9a55e031a7024fdd3d2
-  isLoaded: 1
-  isActive: 1
+sceneSetups: []
