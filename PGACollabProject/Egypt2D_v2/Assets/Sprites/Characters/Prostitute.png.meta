@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: 472b8580e1f7d0240b5ebf464283b1ae
-timeCreated: 1545810354
+guid: 625000c6c6ca458458f8dd8cddf668c9
+timeCreated: 1546001265
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Prostitute_0
+  fileIDToRecycleName: {}
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -41,12 +40,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 142, y: 35, z: 143, w: 34}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -95,21 +94,7 @@ TextureImporter:
     overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Prostitute_0
-      rect:
-        serializedVersion: 2
-        x: 141
-        y: 33
-        width: 118
-        height: 332
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 1, y: 0, z: 0, w: 1}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
+    sprites: []
     outline: []
     physicsShape: []
   spritePackingTag: 
