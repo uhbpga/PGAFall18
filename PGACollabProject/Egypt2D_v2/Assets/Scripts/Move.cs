@@ -1,10 +1,13 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Move : MonoBehaviour {
 
     public DisguiseMechanicScript dMScript;
+    //public InteractionScript abc;
+    //InteractionScript abc = new InteractionScript();
+    CombatStatus abc = new CombatStatus();
 
     public GameObject character;
     //{
@@ -19,10 +22,16 @@ public class Move : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        //abc.CombatMod = true;
+        //abc.CombatMod = false;
+        abc.SetCombatMod(false);
     }
+    
 	
 	// Update is called once per frame
 	void Update () {
+        if (abc.GetCombatMod())
+            Debug.Log("Combat Mod is On");
         //press "I" to turn on/off disguise
         if (Input.GetKeyDown(KeyCode.I))
             dMScript.TurnOnDisuguise();
@@ -45,6 +54,8 @@ public class Move : MonoBehaviour {
             chPosition = Vector2.left;
         else if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.DownArrow))
             chPosition = Vector2.right;
+        else if (Input.GetKey(KeyCode.H) && abc.GetCombatMod())
+            Debug.Log("Player Attack");
 
         temp.x = character.transform.position.x;
         temp.y = character.transform.position.y;
