@@ -9,17 +9,18 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1295888912817668}
+  m_RootGameObject: {fileID: 1509387888770832}
   m_IsPrefabAsset: 1
---- !u!1 &1295888912817668
+--- !u!1 &1509387888770832
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4087199901590610}
-  - component: {fileID: 212016947179782516}
+  - component: {fileID: 4226645735701802}
+  - component: {fileID: 212977593731565948}
+  - component: {fileID: 95947392848228680}
   m_Layer: 0
   m_Name: Peddlar
   m_TagString: Untagged
@@ -27,12 +28,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4087199901590610
+--- !u!4 &4226645735701802
 Transform:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1295888912817668}
+  m_GameObject: {fileID: 1509387888770832}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 127.3, y: -116, z: 0}
   m_LocalScale: {x: 4, y: 4, z: 1}
@@ -40,12 +41,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &212016947179782516
+--- !u!95 &95947392848228680
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1509387888770832}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a752d5ce8b3049c4091d851521ddbfdf, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &212977593731565948
 SpriteRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1295888912817668}
+  m_GameObject: {fileID: 1509387888770832}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
