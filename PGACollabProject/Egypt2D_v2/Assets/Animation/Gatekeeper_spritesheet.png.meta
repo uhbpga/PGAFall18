@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: f879fc6397e0c584196fb8b383722542
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gatekeeper_spritesheet_0
+    21300002: Gatekeeper_spritesheet_1
+    21300004: Gatekeeper_spritesheet_2
+    21300006: Gatekeeper_spritesheet_3
+    21300008: Gatekeeper_spritesheet_4
+    21300010: Gatekeeper_spritesheet_5
+    21300012: Gatekeeper_spritesheet_6
+    21300014: Gatekeeper_spritesheet_7
+    21300016: Gatekeeper_spritesheet_8
+    21300018: Gatekeeper_spritesheet_9
+    21300020: Gatekeeper_spritesheet_10
+    21300022: Gatekeeper_spritesheet_11
+    21300024: Gatekeeper_spritesheet_12
+    21300026: Gatekeeper_spritesheet_13
+    21300028: Gatekeeper_spritesheet_14
+    21300030: Gatekeeper_spritesheet_15
+    21300032: Gatekeeper_spritesheet_16
+    21300034: Gatekeeper_spritesheet_17
+    21300036: Gatekeeper_spritesheet_18
+    21300038: Gatekeeper_spritesheet_19
+    21300040: Gatekeeper_spritesheet_20
+    21300042: Gatekeeper_spritesheet_21
+    21300044: Gatekeeper_spritesheet_22
+    21300046: Gatekeeper_spritesheet_23
+    21300048: Gatekeeper_spritesheet_24
+    21300050: Gatekeeper_spritesheet_25
+    21300052: Gatekeeper_spritesheet_26
+    21300054: Gatekeeper_spritesheet_27
+    21300056: Gatekeeper_spritesheet_28
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1682
+        width: 141
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 366}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aa265cb0967c64a9de7769a8108549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1676
+        width: 177
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f858d11f4879bc47a7a4fca34d7d0b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1676
+        width: 181
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3338dc631b56b7b44acca1fc349dfaf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1676
+        width: 186
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db15b2bdcd741474cb2220c6e90f3ed2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1676
+        width: 190
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016c7d9e19fccc14e8eb19f14b55e70c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1679
+        width: 218
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20225ebead1bb0c4aaddf01ea7f9ce8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1679
+        width: 220
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9634c32d1ca1b14494897a3f5b68574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1679
+        width: 221
+        height: 369
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ab3f1b24376845b1ea204501de3c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1679
+        width: 249
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03cef29b2b498e488b63cd40695c22b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1299
+        width: 224
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8db6954b57744b8e4f69893862209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1302
+        width: 236
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d936fa3568ce46447a33d5d7316810c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1301
+        width: 218
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89781c0cbebf1bb439cd708ae0b394ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 932
+        width: 199
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21b23010b913141adfe88988f24710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 932
+        width: 213
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec72e6dcfa3ee1459ebfb5bee6b90b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 929
+        width: 226
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c083186fd6d22a41976e545bc2d471e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 932
+        width: 233
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caab883de42f0ce469ef3d57722731e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 932
+        width: 231
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4910f4bb8188f4f43a59769aa5b1b993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 560
+        width: 221
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f060248044e176a4588a12f80740ca45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 560
+        width: 179
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9fa0972ed8c864f8bb0445abe1b330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 560
+        width: 154
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0ba0f0eb062074194fe398c38fd972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1302
+        width: 236
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afef0b23ef5b7514593f278ff8a2d55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1305
+        width: 249
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc459fc827dc76d409d0c7086f8b70bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1314
+        width: 246
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98cf3b6fda07e499d638c66fbd46d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1305
+        width: 245
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f38d640aa61454ba69d49732681ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1308
+        width: 236
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b282773add7e4caad768944114f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 934
+        width: 227
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1725150ac80d3a748a548fcb30e19892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 931
+        width: 227
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d635773e78785f4d995209a3d67a4ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931
+        width: 217
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef52d35648d16c4794d6aeed6622114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gatekeeper_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 563
+        width: 246
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3803e20d2845e95488f3b16869033d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c56281c47cc33204c9c1dbf5474fa2f5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
