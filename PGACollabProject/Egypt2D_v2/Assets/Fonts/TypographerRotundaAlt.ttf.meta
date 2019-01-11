@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2fb147e00ba717e469159b3ab5c6ff82
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Typographer Rotunda
+  fontNames:
+  - Typographer Rotunda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2c53ce063c599634d96871e8496cd719, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
