@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 729d3b3b480f6e141a10e419516869ec, type: 3}
+  m_Name: CamelRearer1
+  m_EditorClassIdentifier: 
+  dialogueText: 'Merchant: What do you want?'
+  nextStates:
+  - {fileID: 11400000, guid: d278c571a9629544795afb0893a60f76, type: 2}
+  - {fileID: 11400000, guid: 52e4ab78bfec8bd4fbc51201c3cbaa4e, type: 2}
+  - {fileID: 11400000, guid: 0cac2d139595b114b85566aefcd0c848, type: 2}
+  - {fileID: 11400000, guid: 9c8163683f480bc408e963d34bbf4f14, type: 2}
+  - {fileID: 11400000, guid: ee640d4cf09b394458cb16ca8048fdb3, type: 2}

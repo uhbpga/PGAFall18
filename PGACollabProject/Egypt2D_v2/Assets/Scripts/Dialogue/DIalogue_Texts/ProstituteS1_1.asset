@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 729d3b3b480f6e141a10e419516869ec, type: 3}
+  m_Name: ProstituteS1_1
+  m_EditorClassIdentifier: 
+  dialogueText: 'Ethopian Prostitute:  Hey there! You look tired, want to come in
+    to have a drink? I''ll even give you a discount. Name''s Tiy by the way.'
+  nextStates:
+  - {fileID: 11400000, guid: ba025360b8a35ff47af0ec152d64b83a, type: 2}
+  - {fileID: 11400000, guid: 7b3c4751f3bc3414c9f12a756c66813b, type: 2}
+  - {fileID: 11400000, guid: fe8def99f5037fc4ea4c9f9dcf817539, type: 2}
+  - {fileID: 11400000, guid: cc7e30143b8300d46a089daff1d9c44d, type: 2}
+  - {fileID: 11400000, guid: a3e892bb4b95ac54d8eff7cf0518f35e, type: 2}
+  - {fileID: 11400000, guid: b04221677a156e34ebcc019aaf841f80, type: 2}
+  - {fileID: 11400000, guid: 7cfc54e782bd7ca4db93f6017ee79791, type: 2}

@@ -5,10 +5,17 @@ using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
+    public State startingState;
+
+    List<State> nextStates;
+    private int listcount = 0;
+
+    State state;
+    private int count = 0;
+
     public GameObject dBox;
     public Text dText1;
-
-
+    
     public bool dialogueActive;
 
     // Use this for initialization
@@ -20,18 +27,39 @@ public class DialogueManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+      //  var nextStates = state.GetNextState();
+
         if (dialogueActive && Input.GetKeyDown(KeyCode.Space))
         {
-            dBox.SetActive(false);
-            dialogueActive = false;
+            if (count == listcount)
+            {
+                dBox.SetActive(false);
+                dialogueActive = false;
+
+            }
+            else
+            {
+                
+                state = nextStates[count];
+                dText1.text = state.GetStateDialogue();
+                count++;
+            }
         }
+
     }
 
-    public void ShowBox(string dialogue)
+    public void ShowBox(State startingState)
     {
         dialogueActive = true;
         dBox.SetActive(true);
-        dText1.text = dialogue;
-       
+      //  dText1.text = dialogue;
+
+        dText1.text = startingState.GetStateDialogue();
+
+        state = startingState;
+        nextStates = state.GetNextState();
+        listcount = nextStates.Count;
+        count = 0;
+
     }
 }

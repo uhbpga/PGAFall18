@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 729d3b3b480f6e141a10e419516869ec, type: 3}
+  m_Name: PeddlarS1_1
+  m_EditorClassIdentifier: 
+  dialogueText: "Paddler: Hey Egyptian, I need water but I can\u2019t go to the well
+    because of guards."
+  nextStates:
+  - {fileID: 11400000, guid: 7c804cc94cb0ebe4ba38f1e38605a1e7, type: 2}
+  - {fileID: 11400000, guid: 5f2cd9b0f4441604fb35319aac0bf897, type: 2}
+  - {fileID: 11400000, guid: 8afe84ddd097755418c4bc00962b3381, type: 2}
+  - {fileID: 11400000, guid: 60c274f6c01b97b4eb4b9d494a0021f3, type: 2}
